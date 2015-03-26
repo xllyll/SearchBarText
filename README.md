@@ -1,5 +1,5 @@
-# SearchBarText
-简单地搜索框
+# android SearchBarText
+android 简单地搜索框
 
 add SearchBarText.java
 然后在layout文件中加入该控件
